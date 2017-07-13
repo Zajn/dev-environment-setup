@@ -1,0 +1,9 @@
+---
+repositories:
+  lisp:
+    - "jinzhu/zeal-at-point.git"
+    - "AdamNiederer/ng2-mode.git"
+    - "pashky/restclient.el.git"
+    - "jpellerin/emacs-crystal-mode.git"
+  font:
+    - "nathco/Office-Code-Pro.git"
